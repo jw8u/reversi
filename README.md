@@ -7,3 +7,6 @@ Reversi: A strategy game on 8x8 board.
 
 - [@jw8u](https://www.github.com/jw8u)
 
+## Screenshots
+
+![Screenshot](screenshot.png)
